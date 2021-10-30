@@ -33,7 +33,7 @@ Practice using tools and approaches used in data analytics for business. Such as
 
 <!-- PROJECTS Section Starts -->
 ## PROJECTS
-[BCG_RISE](https://github.com/mommafish/BCG_Rise) ---> Repository with archived projects done at BCG RISE.
+[BCG_RISE](https://github.com/mommafish/BCG_Rise) ---> A code diary with BCG Rise, to keep track of my coding development.
 <!-- PROJECTS Section Ends -->
 
 
