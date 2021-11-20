@@ -41,7 +41,7 @@ Practice using tools and approaches used in data analytics for business. Such as
 ## FEATURED
 <!-- Add your details -->
 ##### Certifications
-TBA
+Online Certifications uploaded to [Credly](https://www.credly.com/users/poon-wei-yuan)
 
 ##### Achievements
 1.  BCG RISE, Top 2 Hackathon Business Essentials Group Project.
