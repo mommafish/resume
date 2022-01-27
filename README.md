@@ -44,7 +44,8 @@ Practice using tools and approaches used in data analytics for business. Such as
 Online Certifications uploaded to [Credly](https://www.credly.com/users/poon-wei-yuan)
 
 ##### Achievements
-1.  BCG RISE, Top 2 Hackathon Business Essentials Group Project.
-2.  BCG RISE, Distinction for Hackathon Project. 
-3.  Coursera, Google Data Analytics Certificate.
+1.  BCG RISE, Certificate of Completion Business and Data Analytics Program completed with Merit
+2.  BCG RISE, Top 2 Hackathon Business Essentials Group Project.
+3.  BCG RISE, Distinction for Hackathon Project. 
+4.  Coursera, Google Data Analytics Certificate.
 <!-- FEATURED Section Ends -->
